@@ -1,6 +1,6 @@
 ## Configuration of the system used:
-Ubuntu 18.04.4 (http://releases.ubuntu.com/18.04.4/)
-ROS Melodic (http://wiki.ros.org/melodic/Installation/Ubuntu)
+<Ubuntu 18.04.4 (http://releases.ubuntu.com/18.04.4/)>
+<ROS Melodic (http://wiki.ros.org/melodic/Installation/Ubuntu)>
 
 ## Step by step:
 ```
@@ -12,17 +12,5 @@ ROS Melodic (http://wiki.ros.org/melodic/Installation/Ubuntu)
 ```
 ## Parameters:
 
-<table>
-  <tr>
-    <td align="center">
-        <img src="![perfis](https://github.com/user-attachments/assets/b0433e86-ac80-43d4-bb40-fa5b8c4d5e4e)" width="100px;" 
-      </a>
-    </td>
-    <td align="center">
-        <img src="![config](https://github.com/user-attachments/assets/99859927-ee11-466e-94bc-d25d46c233f7)" width="100px;" 
-      </a>
-    </td>
-</table>
-
-![config](https://github.com/user-attachments/assets/99859927-ee11-466e-94bc-d25d46c233f7)
-![perfis](https://github.com/user-attachments/assets/b0433e86-ac80-43d4-bb40-fa5b8c4d5e4e)
+<img src="config.png">
+<img src="perfis.png">
